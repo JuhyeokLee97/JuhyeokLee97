@@ -5,7 +5,7 @@
 
  - 👨‍ 💻Hi. I'm currently working on [LimeFriends](https://limefriends.com/) as an Android developer.
  - 🌱 I'm currently learning Kotlin for Android and Java for Algorithm
- - 😄 I'm currently postging Android Studying and Algorithm Studying on my blog
+ - 😄 I'm currently [postging Android Studying and Algorithm Studying](https://devgeek.tistory.com/)
  - 📫 How to reach me: zero5.two4@gmail.com
 
 #### Languages and Tools
