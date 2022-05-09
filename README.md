@@ -1,13 +1,25 @@
 ### Hi there 👋
-Be writing...
 
-### Skills
-<strong>Platforms & Languages</strong>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+ - 👨‍ 💻Hi. I'm currently working on [LimeFriends](https://limefriends.com/) as an Android developer.
+ - 🌱 I'm currently learning Kotlin for Android and Java for Algorithm
+ - 😄 I'm currently postging Android Studying and Algorithm Studying on my blog
+ - 📫 How to reach me: zero5.two4@gmail.com
+
+#### Languages and Tools
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-squar&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
+
+
   
   <!--
 **JuhyeokLee97/JuhyeokLee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
