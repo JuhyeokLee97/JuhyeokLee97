@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi, I'm Juhyeok Lee, a Android Developer 💻
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JuhyeokLee97)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_z00h_/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zero5.two4@gmail.com)
+
+&nbsp;
+
 
 
  - 👨‍ 💻Hi. I'm currently working on [LimeFriends](https://limefriends.com/) as an Android developer.
@@ -8,14 +13,21 @@
  - 😄 I'm currently [postging Android Studying and Algorithm Studying](https://devgeek.tistory.com/)
  - 📫 How to reach me: zero5.two4@gmail.com
 
-#### Languages and Tools
+
+**Languages and Tools:** 
+
 <p>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Juhyeok's github stats" src="https://github-readme-stats.vercel.app/api?username=JuhyeokLee97&show_icons=true&hide_border=true" />
+  </a>
+ 
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code></br>
+ 
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
 
