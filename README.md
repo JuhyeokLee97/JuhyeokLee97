@@ -1,44 +1,36 @@
-## 앱의 품질과 안정성을 중요하게 생각하는 Android 개발자입니다 💻
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JuhyeokLee97)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_z00h_/)
+## Android Developer 💻  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zero5.two4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhyeok-lee/)
 
-- 완벽한 코드를 만드는 것보다 **지속적으로 더 나은 코드를 만들어가는 과정**에 집중합니다.
-- 문제를 정의하고 근본 원인을 찾는 과정을 중요하게 생각합니다.
-- 협업에서는 기록과 공유의 힘을 중시합니다.
+Stability · Structure · Maintainability
 
-**Languages and Tools:** 
+Android 앱을 기능의 집합이 아닌  
+**오래 운영될 소프트웨어**로 다루는 것을 중요하게 생각합니다.
 
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Juhyeok's github stats" src="https://github-readme-stats.vercel.app/api?username=JuhyeokLee97&show_icons=true&hide_border=true" />
-  </a>
- 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code></br>
- 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
-
-</p>
+완성도 높은 코드를 한 번에 만드는 것보다,  
+**문제를 정의하고 구조적으로 개선해 나가는 과정**을 선호합니다.
 
 
+### 🧠 How I work
 
-  
-  <!--
-**JuhyeokLee97/JuhyeokLee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 문제를 현상이 아닌 **원인과 구조**의 관점에서 봅니다.
+- 빠른 해결보다 **다음에도 유지될 선택**을 우선합니다.
+- 기술은 유행보다 **운영과 팀에 적합한가**를 기준으로 선택합니다.
+- 기록과 공유는 협업의 일부라고 생각합니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tech
+
+**Main**
+- Kotlin / Android
+- Jetpack (ViewModel, Lifecycle, StateFlow)
+- XML (View System)
+
+**Also used**
+- Java
+- Jetpack Compose
+
+**Patterns**
+- MVVM
+- Unidirectional State Flow
+- Modular & layered structure
